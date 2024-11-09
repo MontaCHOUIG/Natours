@@ -1,0 +1,6 @@
+{
+  "reactSnippets.settings.prettierEnabled": false,
+  "prettier.endOfLine": "auto",
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "git.ignoreLimitWarning": true
+}
